@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:title="Namn"
+        android:key="user_name"
+        android:summary="Ditt namn"
+        />
+
+    <EditTextPreference
+        android:key="user_email"
+        android:summary="..."
+        android:title="E-post" />
+    <SwitchPreference
+            android:title="Notifikaiton"
+
+            />
+
+
+</PreferenceScreen>
