@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">vpsettings03</string>
     <string name="action_settings">Settings</string>
+    <string name="pref_title_display_name" />
+    <string name="pref_default_display_name" />
+
+
+    <string-array name="lists">
+        <item>Birds</item>
+        <item>Drumbo</item>
+        <item>Morning spring</item>
+        <item>Beep</item>
+        <item>Anoying af</item>
+    </string-array>
 </resources>
